@@ -6,5 +6,5 @@
  * Spotify
  * Steam
  * qBittorrent
- * fedora-gnome-store-programs
+ * Gerenciador de Máquinas Virtuais
 
