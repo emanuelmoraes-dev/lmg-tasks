@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+sudo pacman -S ttf-jetbrains-mono ttf-fira-code gnu-free-fonts && # JetBrains Mono, Fira Code, ...
+echo "Done!"
