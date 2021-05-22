@@ -3,7 +3,7 @@
 [ -z "$LIB_PGADMIN" ] && LIB_PGADMIN=/var/lib/pgadmin;
 [ -z "$DEFAULT_EMAIL" ] && DEFAULT_EMAIL=admin@admin.com;
 [ -z "$DEFAULT_PASSWORD" ] && DEFAULT_PASSWORD=admin;
-[ -z "$PORT" ] && PORT=8000;
+[ -z "$PORT" ] && PORT=61886;
 echo "Criando $LIB_PGADMIN ..." &&
 sudo mkdir -p "$LIB_PGADMIN" &&
 echo "Running image ..." &&
